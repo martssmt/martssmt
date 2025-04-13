@@ -19,20 +19,21 @@ Soy estudiante de **Ingeniería de Software** en la **Universidad Politécnica d
 </tr>
 </table>
 </div> 
-
-## 🛠️ Tecnologías y herramientas  
+<div align="center">
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java"></td>
-<td><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"></td>
-<td><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash"></td>
-<td><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"></td>
-<td><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></td>
+<td>
+<img src="https://nirzak-streak-stats.vercel.app/?user=martssmt&theme=radical&hide_border=false" alt="Stats">
+</td>
+<td>
+<img src="https://github-contributor-stats.vercel.app/api?username=martssmt&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
+</td>
 </tr>
 </table>
+</div> 
+
+## 🛠️ Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 🌟 Proyectos Destacados  
 Estos son algunos de los proyectos en los que he trabajado:  
